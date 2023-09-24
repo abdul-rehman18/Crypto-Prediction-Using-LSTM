@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib mplfinance scikit-learn tensorflow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abdul-rehman18/Crypto-Prediction-Using-LSTM.git
+git clone https://github.com/abdul-rehman18/Cryptocurrency-price-Prediction-Using-LSTM.git
 cd cryptocurrency-price-prediction
 ```
 
